@@ -26,7 +26,7 @@ The project simulates a predator-prey ecosystem using p5.js. It includes various
 - **class.js**: Contains the class definitions for Grass, GrassEater, Predator, and RePredator.
 - **script.js**: Contains the main setup and draw functions to initialize and run the simulation.
 
-To run the code, extract the ZIP file and open the `index.html` file in a web browser. The simulation will start automatically.
+### To run the code, extract the ZIP file and open the `index.html` file in a web browser. The simulation will start automatically.
 
 ## Classes
 ### Grass
